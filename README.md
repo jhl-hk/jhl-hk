@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BEING TOP FOR AN IB STUDENT<br>👯 I’m looking to collaborate on EVERYTHING!<br>🤝 I’m looking for help with NEXT.JS<br>🌱 I’m currently learning full stack development<br>⚡ Fun fact a Hong Kong citizen born in Hong Kong who does not speak Cantonese
+🔭 I’m currently working on BEING TOP FOR AN IB STUDENT<br>👯 I’m looking to collaborate on EVERYTHING! Welcome to talk to me!!!<br>🤝 I’m looking for help with NEXT.JS<br>🌱 I’m currently learning full stack development<br>⚡ Fun fact a Hong Kong citizen born in Hong Kong who does not speak Cantonese
 
 
 ## 🌐 Socials:

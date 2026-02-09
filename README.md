@@ -20,13 +20,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jhl-hk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jhl-hk&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhl-hk&show_icons=true&locale=en&layout=compact" alt="jhl-hk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhl-hk&show_icons=true&locale=en" alt="jhl-hk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhl-hk&" alt="jhl-hk" /></p>
-

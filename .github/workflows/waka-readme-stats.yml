@@ -13,5 +13,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Add this line
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"

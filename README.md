@@ -26,7 +26,7 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-983.77%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -92,11 +92,11 @@ Mac                      3 hrs 13 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            ██████████░░░░░░░░░░░░░░░   39.68 % 
+TypeScript               24 repos            ██████████░░░░░░░░░░░░░░░   38.10 % 
+Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -106,5 +106,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2026 13:11:30 UTC
+ Last Updated on 03/03/2026 19:01:49 UTC
 <!--END_SECTION:waka-->

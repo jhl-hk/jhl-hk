@@ -27,13 +27,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 110.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,508 Contributions in the Year 2026
+> 🏆 1,513 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                990 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-🌆 Daytime                1980 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
-🌃 Evening                2332 commits        ██████████░░░░░░░░░░░░░░░   38.47 % 
-🌙 Night                  760 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+🌞 Morning                990 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+🌆 Daytime                1980 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌃 Evening                2335 commits        ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  766 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   965 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Tuesday                  897 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Thursday                 1256 commits        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Friday                   598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Saturday                 709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Sunday                   763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Monday                   968 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Tuesday                  899 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                878 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Thursday                 1256 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Friday                   598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Saturday                 709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 ```
 
 
@@ -68,47 +68,47 @@ Sunday                   763 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Vue                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Go                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Vue                      1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Go                       1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 🔥 Editors: 
-Claude Code              7 hrs               ███████████████░░░░░░░░░░   59.81 % 
-Zed                      4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+Claude Code              5 hrs 6 mins        ███████████████░░░░░░░░░░   60.76 % 
+Zed                      3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
 
 🐱‍💻 Projects: 
-net-panel                2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-can-web                  1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-tools.ts                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-users-jhl-documents-dev-a57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-env                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+can-web                  1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+tools.ts                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+users-jhl-documents-dev-a57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+env                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Flight-Simulation-Daemon 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 💻 Operating System: 
-Mac                      11 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (82.38%)
+⏱ AI Coding Time: 7 hrs 19 mins (87.07%)
 
-✍️ 21,800 lines written by AI, 210 lines written by hand (99.05% AI-written)
+✍️ 19,782 lines written by AI, 206 lines written by hand (98.97% AI-written)
 
-🔤 330,068,573 Input Tokens, 877,768 Output Tokens
+🔤 253,739,300 Input Tokens, 681,480 Output Tokens
 
-💵 $1670.60 Estimated AI Cost This Week
+💵 $1343.71 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 69 AI Prompts
+🧠 9 AI Sessions, 52 AI Prompts
 
-Opus                     22,941 lines        █████████████████████████   100.00 % 
+Opus                     21,165 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
+🤖 AI-Driven — 98.97% of written lines came from AI
+📝 Concise Prompter — average 72 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.91% of changed lines were hand-edited
+🚀 High AI Trust — 0.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 12:48:12 UTC
+ Last Updated on 28/07/2026 18:39:36 UTC
 <!--END_SECTION:waka-->

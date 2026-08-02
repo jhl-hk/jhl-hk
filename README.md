@@ -23,9 +23,9 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -41,6 +41,79 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+🌆 Daytime                2259 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                3048 commits        ██████████░░░░░░░░░░░░░░░   39.58 % 
+🌙 Night                  1102 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  1009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Wednesday                1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 1576 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Friday                   935 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Sunday                   979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   18 hrs 49 mins      ███████████░░░░░░░░░░░░░░   44.48 % 
+Markdown                 8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Vue                      5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+TypeScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Go                       1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+
+🔥 Editors: 
+Claude Code              40 hrs 5 mins       ████████████████████████░   94.76 % 
+Zed                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Xcode                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🐱‍💻 Projects: 
+airwaysn_audio           20 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.09 % 
+can-web                  10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+Sector                   4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+can-fsd                  2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+release.yml              34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+💻 Operating System: 
+Windows                  36 hrs 53 mins      ██████████████████████░░░   87.18 % 
+Mac                      5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 40 hrs 45 mins (96.34%)
+
+✍️ 56,980 lines written by AI, 135 lines written by hand (99.76% AI-written)
+
+🔤 2,416,951,766 Input Tokens, 4,623,981 Output Tokens
+
+💵 $12172.33 Estimated AI Cost This Week
+
+🧠 38 AI Sessions, 431 AI Prompts
+
+Opus                     58,214 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.76% of written lines came from AI
+📝 Concise Prompter — average 155 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,5 +131,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 18:28:51 UTC
+ Last Updated on 02/08/2026 00:51:41 UTC
 <!--END_SECTION:waka-->

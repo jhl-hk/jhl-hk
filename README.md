@@ -27,13 +27,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-227%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,710 Contributions in the Year 2026
+> 🏆 1,714 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-🌆 Daytime                2443 commits        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-🌃 Evening                3335 commits        ██████████░░░░░░░░░░░░░░░   39.54 % 
-🌙 Night                  1265 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌞 Morning                1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+🌆 Daytime                2733 commits        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌃 Evening                3986 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌙 Night                  1494 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1355 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Tuesday                  1166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Wednesday                1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 1694 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Friday                   1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Saturday                 873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Sunday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Monday                   1654 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Tuesday                  1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Wednesday                1548 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Thursday                 1970 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Friday                   1276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 966 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Sunday                   1187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 ```
 
 
@@ -68,55 +68,55 @@ Sunday                   1027 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   12 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Markdown                 9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-TypeScript               3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Nix                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other                    2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Markdown                 9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Python                   6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Nix                      5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+TypeScript               5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Other                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 15 mins      ███████████████████░░░░░░   77.60 % 
-Zed                      8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Claude Code              28 hrs 36 mins      ██████████████████░░░░░░░   71.93 % 
+Zed                      10 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Xcode                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Xcode                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-airwaysn_audio           13 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.75 % 
-can-web                  7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-nix-config               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-SKILL.md                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-README.md                1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+airwaysn_audio           8 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+can-web                  6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+nix-config               3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Dockerfile               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+llm-web                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-Mac                      20 hrs 9 mins       █████████████░░░░░░░░░░░░   50.06 % 
-Windows                  20 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.94 % 
+Mac                      28 hrs 8 mins       ██████████████████░░░░░░░   70.78 % 
+Windows                  11 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 56 mins (91.71%)
+⏱ AI Coding Time: 35 hrs 50 mins (90.1%)
 
-✍️ 48,852 lines written by AI, 148 lines written by hand (99.7% AI-written)
+✍️ 49,671 lines written by AI, 173 lines written by hand (99.65% AI-written)
 
-🔤 1,513,670,290 Input Tokens, 3,975,764 Output Tokens
+🔤 1,247,240,333 Input Tokens, 3,699,494 Output Tokens
 
-💵 $7629.63 Estimated AI Cost This Week
+💵 $6270.60 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 359 AI Prompts
+🧠 62 AI Sessions, 376 AI Prompts
 
-Opus                     46,022 lines        ███████████████████████░░   90.97 % 
-Deepseek                 2,737 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-GPT                      1,832 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     45,331 lines        ██████████████████████░░░   87.77 % 
+Deepseek                 4,015 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+GPT                      1,832 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Claude                   305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Opencode-Cli             95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 363 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📝 Concise Prompter — average 468 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +136,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 14:24:57 UTC
+ Last Updated on 05/08/2026 19:47:01 UTC
 <!--END_SECTION:waka-->

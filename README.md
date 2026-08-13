@@ -23,15 +23,15 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-267%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 117.3 kB Used in GitHub's Storage 
+> 📦 117.4 kB Used in GitHub's Storage 
  > 
 > 🏆 2,047 Contributions in the Year 2026
  > 
@@ -41,6 +41,82 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1108 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+🌆 Daytime                1806 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌃 Evening                2239 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌙 Night                  995 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Tuesday                  918 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                904 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Thursday                 1178 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Friday                   941 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Saturday                 560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+TypeScript               5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Go                       3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Other                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Python                   2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+
+🔥 Editors: 
+Claude Code              29 hrs 29 mins      ██████████████████████░░░   86.41 % 
+Opencode Cli             1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Zed                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Unknown Editor           1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+OpenCode                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🐱‍💻 Projects: 
+CeruleanAviationNetwork  3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+RouteFrame               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+can-api                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+can-web                  2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+airwaysn_audio           2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+
+💻 Operating System: 
+Mac                      34 hrs 8 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 12 mins (97.28%)
+
+✍️ 106,248 lines written by AI, 1 lines written by hand (100.0% AI-written)
+
+🔤 1,459,923,244 Input Tokens, 4,559,698 Output Tokens
+
+💵 $3492.24 Estimated AI Cost This Week
+
+🧠 87 AI Sessions, 512 AI Prompts
+
+Claude                   87,750 lines        █████████████████████░░░░   82.15 % 
+OpenCode                 11,439 lines        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Opus                     6,945 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Pi                       688 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,676 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,5 +134,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:10:49 UTC
+ Last Updated on 13/08/2026 02:24:39 UTC
 <!--END_SECTION:waka-->

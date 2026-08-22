@@ -27,7 +27,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1740 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-🌆 Daytime                3071 commits        ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌃 Evening                4461 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌙 Night                  2744 commits        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌞 Morning                1741 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+🌆 Daytime                3079 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌃 Evening                4461 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  2744 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2403 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  1286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Wednesday                1962 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 2326 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Friday                   1777 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Monday                   2403 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Tuesday                  1294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Wednesday                1963 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 2326 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Friday                   1777 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Saturday                 863 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Sunday                   1399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Sunday                   1399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 
 
@@ -119,11 +119,11 @@ Opus                     350 lines           ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               38 repos            █████████░░░░░░░░░░░░░░░░   36.89 % 
-Vue                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               38 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
+Vue                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 
@@ -133,5 +133,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 12:52:35 UTC
+ Last Updated on 22/08/2026 18:41:27 UTC
 <!--END_SECTION:waka-->

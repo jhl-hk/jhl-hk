@@ -46,13 +46,13 @@
 ```text
 🌞 Morning                1815 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 🌆 Daytime                3379 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-🌃 Evening                4692 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
-🌙 Night                  2929 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+🌃 Evening                4693 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌙 Night                  2929 commits        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2479 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Monday                   2480 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 Tuesday                  1402 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Wednesday                2072 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 Thursday                 2479 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
@@ -68,52 +68,52 @@ Sunday                   1523 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 9 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Text                     5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Python                   4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-TypeScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Markdown                 8 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Other                    5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Text                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Python                   3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+TypeScript               2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 58 mins      ████████████████████░░░░░   80.29 % 
-Zed                      5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Opencode Cli             2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-OpenCode                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              28 hrs 51 mins      █████████████████████░░░░   82.74 % 
+Zed                      5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Opencode Cli             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+OpenCode                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-can-db                   5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-fix-deploy-secrets       4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-can-web                  4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-can-docs                 3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Reverse                  3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+fix-deploy-secrets       4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+can-db                   4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+can-docs                 3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+can-efb                  3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+efb-map-atc              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 💻 Operating System: 
-Mac                      43 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 50 mins (91.45%)
+⏱ AI Coding Time: 31 hrs 7 mins (89.24%)
 
-✍️ 45,330 lines written by AI, 200 lines written by hand (99.56% AI-written)
+✍️ 39,600 lines written by AI, 200 lines written by hand (99.5% AI-written)
 
-🔤 3,066,634,848 Input Tokens, 6,338,374 Output Tokens
+🔤 2,534,101,386 Input Tokens, 5,005,385 Output Tokens
 
-💵 $6212.85 Estimated AI Cost This Week
+💵 $5133.68 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 673 AI Prompts
+🧠 41 AI Sessions, 543 AI Prompts
 
-Claude                   44,372 lines        ████████████████████████░   96.27 % 
-OpenCode                 1,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Opus                     341 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Claude                   39,449 lines        █████████████████████████   98.27 % 
+OpenCode                 352 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Opus                     341 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📚 Verbose Prompter — average 7,418 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.5% of written lines came from AI
+📚 Verbose Prompter — average 8,136 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 13:06:56 UTC
+ Last Updated on 26/08/2026 19:58:44 UTC
 <!--END_SECTION:waka-->

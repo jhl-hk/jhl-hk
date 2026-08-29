@@ -23,9 +23,9 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,48 +68,48 @@ Sunday                   1531 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-Text                     2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-YAML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Nix                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+YAML                     1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Nix                      1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Git Config               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 25 mins      ████████████████████░░░░░   79.91 % 
-Zed                      2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Claude Code              5 hrs 2 mins        ███████████████░░░░░░░░░░   61.23 % 
+Zed                      3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
 
 🐱‍💻 Projects: 
-nix-src                  3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-can-efb                  2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-can-db                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-RouteFrame               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-nix-config               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+nix-src                  4 hrs 13 mins       █████████████░░░░░░░░░░░░   51.33 % 
+nix-config               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+router-config            54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+RouteFrame               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+ui                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 27 mins (87.83%)
+⏱ AI Coding Time: 6 hrs 32 mins (79.48%)
 
-✍️ 5,578 lines written by AI, 115 lines written by hand (97.98% AI-written)
+✍️ 681 lines written by AI, 87 lines written by hand (88.67% AI-written)
 
-🔤 638,456,253 Input Tokens, 1,405,629 Output Tokens
+🔤 125,927,610 Input Tokens, 517,406 Output Tokens
 
-💵 $1329.59 Estimated AI Cost This Week
+💵 $293.61 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 266 AI Prompts
+🧠 9 AI Sessions, 99 AI Prompts
 
-Claude                   5,278 lines         ███████████████████████░░   92.18 % 
-Opus                     448 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Opus                     448 lines           ███████████████░░░░░░░░░░   58.49 % 
+Claude                   318 lines           ██████████░░░░░░░░░░░░░░░   41.51 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.98% of written lines came from AI
-📚 Verbose Prompter — average 5,533 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 3.31% of changed lines were hand-edited
+🤖 AI-Driven — 88.67% of written lines came from AI
+📄 Detailed Prompter — average 501 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 19.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +129,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 16:36:06 UTC
+ Last Updated on 29/08/2026 20:49:14 UTC
 <!--END_SECTION:waka-->

@@ -68,48 +68,51 @@ Sunday                   1446 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 9 mins        ███████████████░░░░░░░░░░   59.90 % 
-YAML                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Nix                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Git Config               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    10 hrs 19 mins      █████████████░░░░░░░░░░░░   50.08 % 
+Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Go                       2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Nix                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 7 mins       ██████████████████░░░░░░░   72.75 % 
-Zed                      4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Claude Code              17 hrs 34 mins      █████████████████████░░░░   85.25 % 
+Zed                      2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Opencode Cli             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-nix-src                  5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-nix-config               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-JianyueLab               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-pw-homepage              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-ui                       1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+mail-server              5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+nix-src                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+JianyueLab               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+nix-config               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+net-panel                1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 
 💻 Operating System: 
-Mac                      15 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 4 mins (85.5%)
+⏱ AI Coding Time: 19 hrs 28 mins (94.46%)
 
-✍️ 1,410 lines written by AI, 87 lines written by hand (94.19% AI-written)
+✍️ 7,821 lines written by AI, 87 lines written by hand (98.9% AI-written)
 
-🔤 183,673,775 Input Tokens, 542,091 Output Tokens
+🔤 237,335,828 Input Tokens, 712,484 Output Tokens
 
-💵 $413.91 Estimated AI Cost This Week
+💵 $523.18 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 196 AI Prompts
+🧠 28 AI Sessions, 210 AI Prompts
 
-Claude                   1,047 lines         ██████████████████░░░░░░░   70.03 % 
-Opus                     448 lines           ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Claude                   7,459 lines         ████████████████████████░   94.33 % 
+Opus                     448 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.19% of written lines came from AI
-📄 Detailed Prompter — average 712 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 10.7% of changed lines were hand-edited
+🤖 AI-Driven — 98.9% of written lines came from AI
+📄 Detailed Prompter — average 829 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 1.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +132,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 11:29:36 UTC
+ Last Updated on 01/09/2026 16:26:21 UTC
 <!--END_SECTION:waka-->

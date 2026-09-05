@@ -68,54 +68,54 @@ Sunday                   1529 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    13 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Go                       12 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Markdown                 11 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-TypeScript               3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Swift                    2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Go                       15 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Other                    13 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Markdown                 12 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+TypeScript               4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Swift                    2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-Claude Code              47 hrs 33 mins      ██████████████████████░░░   89.32 % 
-Opencode Cli             2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Zed                      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              51 hrs 46 mins      ███████████████████████░░   91.47 % 
+Opencode Cli             2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Zed                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-mail-server              24 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.65 % 
-mail-web                 3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-nix-src                  3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-llm-web                  3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-net-panel                2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+mail-server              27 hrs 36 mins      ████████████░░░░░░░░░░░░░   48.78 % 
+llm-web                  4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+mail-web                 3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+harness                  2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+net-panel                2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Mac                      53 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 52 mins (97.45%)
+⏱ AI Coding Time: 55 hrs 28 mins (98.02%)
 
-✍️ 99,411 lines written by AI, 80 lines written by hand (99.92% AI-written)
+✍️ 106,873 lines written by AI, 12 lines written by hand (99.99% AI-written)
 
-🔤 2,065,786,714 Input Tokens, 4,801,576 Output Tokens
+🔤 2,160,945,110 Input Tokens, 4,863,338 Output Tokens
 
-💵 $13139.80 Estimated AI Cost This Week
+💵 $14595.82 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 516 AI Prompts
+🧠 54 AI Sessions, 492 AI Prompts
 
-Claude                   97,925 lines        ████████████████████████░   97.60 % 
-OpenCode                 2,161 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Opus                     248 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude                   105,305 lines       ████████████████████████░   97.67 % 
+OpenCode                 2,265 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Opus                     248 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 1,569 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,637 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,5 +135,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 14:59:52 UTC
+ Last Updated on 05/09/2026 20:14:35 UTC
 <!--END_SECTION:waka-->

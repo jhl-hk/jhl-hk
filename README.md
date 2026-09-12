@@ -68,52 +68,52 @@ Sunday                   1751 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 18 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Go                       15 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Other                    12 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-TypeScript               12 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Bash                     2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 18 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Go                       14 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Other                    13 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+TypeScript               12 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Bash                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              64 hrs 7 mins       ███████████████████████░░   91.82 % 
-Opencode Cli             3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Unknown Editor           1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Zed                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-OpenCode                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              62 hrs 40 mins      ███████████████████████░░   91.89 % 
+Opencode Cli             3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Unknown Editor           1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Zed                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Antigravity CLI          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-harness                  32 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
-llm-web                  16 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-mail-server              6 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Sector                   3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-claude-plugin            2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+harness                  31 hrs 34 mins      ████████████░░░░░░░░░░░░░   46.29 % 
+llm-web                  16 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Sector                   3 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+mail-server              3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+claude-plugin            2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Mac                      69 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      68 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 69 hrs 36 mins (99.66%)
+⏱ AI Coding Time: 67 hrs 58 mins (99.65%)
 
-✍️ 119,492 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 96,675 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,384,103,027 Input Tokens, 6,934,557 Output Tokens
+🔤 2,590,801,645 Input Tokens, 6,399,038 Output Tokens
 
-💵 $34042.88 Estimated AI Cost This Week
+💵 $26105.82 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 593 AI Prompts
+🧠 123 AI Sessions, 577 AI Prompts
 
-Claude                   112,999 lines       ███████████████████████░░   92.94 % 
-OpenCode                 3,861 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Opus                     2,862 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Pi                       1,014 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Sonnet                   571 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Claude                   90,274 lines        ███████████████████████░░   91.70 % 
+Opus                     3,334 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+OpenCode                 2,867 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Pi                       1,014 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Sonnet                   649 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,209 characters per prompt
+📄 Detailed Prompter — average 1,275 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -135,5 +135,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 10:30:29 UTC
+ Last Updated on 12/09/2026 15:24:46 UTC
 <!--END_SECTION:waka-->

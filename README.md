@@ -23,15 +23,15 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-510%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-519%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 119.8 kB Used in GitHub's Storage 
+> 📦 119.9 kB Used in GitHub's Storage 
  > 
 > 🏆 5,168 Contributions in the Year 2026
  > 
@@ -68,52 +68,52 @@ Sunday                   2795 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    21 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Markdown                 17 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Go                       7 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Swift                    5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-TypeScript               3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 19 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Other                    17 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Go                       10 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Swift                    5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Astro                    2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Claude Code              67 hrs 37 mins      █████████████████████████   98.93 % 
-Zed                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Antigravity CLI          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Claude Code              66 hrs 37 mins      █████████████████████████   99.07 % 
+Zed                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Harness                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-harness                  13 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-can-voice                13 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-NotchNotch               8 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-can-audio                4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-net-homepage             4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+can-voice                13 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+harness                  8 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+NotchNotch               8 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+CeruleanAviationNetwork  5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+can-audio                4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      68 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      67 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 68 hrs 17 mins (99.9%)
+⏱ AI Coding Time: 67 hrs 11 mins (99.92%)
 
-✍️ 134,236 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 135,727 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,372,558,848 Input Tokens, 12,440,622 Output Tokens
+🔤 2,145,294,129 Input Tokens, 12,079,522 Output Tokens
 
-💵 $24343.27 Estimated AI Cost This Week
+💵 $22049.96 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 491 AI Prompts
+🧠 75 AI Sessions, 417 AI Prompts
 
-Claude                   122,934 lines       ███████████████████████░░   90.77 % 
-Opus                     8,014 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Sonnet                   3,819 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Haiku                    668 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Claude                   124,861 lines       ███████████████████████░░   91.17 % 
+Opus                     7,740 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Sonnet                   3,713 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Haiku                    642 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Wakatime                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,490 characters per prompt
+📚 Verbose Prompter — average 2,613 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -135,5 +135,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 16:17:35 UTC
+ Last Updated on 18/09/2026 20:49:37 UTC
 <!--END_SECTION:waka-->

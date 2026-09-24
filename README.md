@@ -23,9 +23,9 @@
 # WakaTime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-571%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-578%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,54 +68,54 @@ Sunday                   3070 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 23 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Go                       20 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Other                    9 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Python                   3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Rust                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 21 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Go                       17 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Other                    12 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Python                   3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Vue                      2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Claude Code              58 hrs 11 mins      ████████████████████░░░░░   80.49 % 
-Codex CLI                8 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Unknown Editor           3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Zed                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              49 hrs 19 mins      ██████████████████░░░░░░░   72.37 % 
+Codex CLI                10 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Unknown Editor           5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Zed                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Grok Build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-harness                  28 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   38.99 % 
-can-voice                12 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-CeruleanAviationNetwork  10 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-can-bot                  5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-can-api                  3 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+harness                  24 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
+CeruleanAviationNetwork  14 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+can-voice                11 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+can-bot                  4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+can-db                   3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 💻 Operating System: 
-Mac                      72 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      68 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 71 hrs 34 mins (99.01%)
+⏱ AI Coding Time: 67 hrs 28 mins (99.0%)
 
-✍️ 148,084 lines written by AI, 135 lines written by hand (99.91% AI-written)
+✍️ 77,873 lines written by AI, 135 lines written by hand (99.83% AI-written)
 
-🔤 2,814,965,976 Input Tokens, 16,725,386 Output Tokens
+🔤 1,821,902,781 Input Tokens, 9,757,388 Output Tokens
 
-💵 $28995.33 Estimated AI Cost This Week
+💵 $18894.24 Estimated AI Cost This Week
 
-🧠 167 AI Sessions, 521 AI Prompts
+🧠 188 AI Sessions, 502 AI Prompts
 
-Claude                   127,792 lines       █████████████████████░░░░   85.42 % 
-GPT                      19,967 lines        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sonnet                   1,027 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Opus                     714 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Haiku                    108 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude                   57,324 lines        ██████████████████░░░░░░░   72.36 % 
+GPT                      20,188 lines        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Sonnet                   1,027 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Opus                     575 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Haiku                    108 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,721 characters per prompt
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 3,023 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -135,5 +135,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 17:01:03 UTC
+ Last Updated on 24/09/2026 21:33:23 UTC
 <!--END_SECTION:waka-->

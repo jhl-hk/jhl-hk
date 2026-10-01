@@ -31,9 +31,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 131.7 kB Used in GitHub's Storage 
+> 📦 131.8 kB Used in GitHub's Storage 
  > 
-> 🏆 6,605 Contributions in the Year 2026
+> 🏆 6,607 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,9 +45,9 @@
 
 ```text
 🌞 Morning                5466 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌆 Daytime                11566 commits       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌃 Evening                11916 commits       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  6318 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌆 Daytime                11566 commits       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌃 Evening                11917 commits       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+🌙 Night                  6319 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -55,8 +55,8 @@
 Monday                   6067 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 Tuesday                  4236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 Wednesday                7216 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Thursday                 5743 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   5061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 5744 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Friday                   5062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Saturday                 3294 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 Sunday                   3649 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 ```
@@ -68,53 +68,52 @@ Sunday                   3649 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    17 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Markdown                 15 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-TypeScript               4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Text                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Go                       3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 16 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Other                    15 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+TypeScript               4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Text                     4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Swift                    3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Claude Code              52 hrs 7 mins       ██████████████████████░░░   87.18 % 
-Unknown Editor           3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Codex CLI                2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Zed                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Claude Code              54 hrs 3 mins       ████████████████████████░   95.64 % 
+Zed                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Unknown Editor           47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-CeruleanAviationNetwork  22 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
-co-homepage              6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-can-efb-mobile           3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-efb-redesign             3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-can-db                   2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CeruleanAviationNetwork  19 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   34.68 % 
+co-homepage              7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+can-efb-mobile           4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+efb-redesign             3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+JianyueLab               2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Mac                      59 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 39 mins (99.79%)
+⏱ AI Coding Time: 56 hrs 20 mins (99.69%)
 
-✍️ 152,728 lines written by AI, 8 lines written by hand (99.99% AI-written)
+✍️ 154,654 lines written by AI, 8 lines written by hand (99.99% AI-written)
 
-🔤 2,088,713,028 Input Tokens, 2,054,181 Output Tokens
+🔤 2,079,726,001 Input Tokens, 1,701,682 Output Tokens
 
-💵 $20978.04 Estimated AI Cost This Week
+💵 $20879.27 Estimated AI Cost This Week
 
-🧠 141 AI Sessions, 1124 AI Prompts
+🧠 98 AI Sessions, 1023 AI Prompts
 
-Claude                   153,574 lines       █████████████████████████   98.80 % 
-GPT                      938 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude                   155,913 lines       █████████████████████████   99.19 % 
 Sonnet                   826 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Opus                     95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      452 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,791 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 2,947 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -135,5 +134,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 12:39:22 UTC
+ Last Updated on 01/10/2026 18:39:29 UTC
 <!--END_SECTION:waka-->

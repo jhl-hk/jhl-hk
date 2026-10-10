@@ -68,53 +68,53 @@ Sunday                   3201 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    12 hrs 44 mins      ██████████████░░░░░░░░░░░   56.72 % 
-Markdown                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Nix                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Other                    12 hrs 44 mins      ██████████████░░░░░░░░░░░   57.18 % 
+Markdown                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Nix                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Zed                      9 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
-Claude Code              5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-Unknown Editor           5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Codex Vscode             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Zed                      9 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.67 % 
+Claude Code              5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Unknown Editor           5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Codex Vscode             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-CeruleanAviationNetwork  9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-nix-src                  3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-RENA                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JianyueLab               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-can-docs                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+CeruleanAviationNetwork  9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+nix-src                  3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+RENA                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JianyueLab               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+can-docs                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 💻 Operating System: 
-Mac                      22 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 13 mins (90.02%)
+⏱ AI Coding Time: 20 hrs 2 mins (89.93%)
 
-✍️ 11,468 lines written by AI, 177 lines written by hand (98.48% AI-written)
+✍️ 11,444 lines written by AI, 177 lines written by hand (98.48% AI-written)
 
-🔤 530,348,766 Input Tokens, 1,351,554 Output Tokens
+🔤 529,909,957 Input Tokens, 1,348,412 Output Tokens
 
-💵 $5500.88 Estimated AI Cost This Week
+💵 $5496.33 Estimated AI Cost This Week
 
-🧠 182 AI Sessions, 922 AI Prompts
+🧠 181 AI Sessions, 919 AI Prompts
 
-Claude                   9,098 lines         ███████████████████░░░░░░   77.34 % 
-GPT                      2,613 lines         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Claude                   9,074 lines         ███████████████████░░░░░░   77.30 % 
+GPT                      2,613 lines         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 Opus                     52 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.48% of written lines came from AI
-📚 Verbose Prompter — average 6,555 characters per prompt
+📚 Verbose Prompter — average 6,577 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.54% of changed lines were hand-edited
+🚀 High AI Trust — 1.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,5 +134,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 12:33:50 UTC
+ Last Updated on 10/10/2026 18:28:54 UTC
 <!--END_SECTION:waka-->

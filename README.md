@@ -31,7 +31,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 132.5 kB Used in GitHub's Storage 
+> 📦 132.6 kB Used in GitHub's Storage 
  > 
 > 🏆 7,019 Contributions in the Year 2026
  > 
@@ -68,53 +68,54 @@ Sunday                   3142 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    11 hrs 45 mins      ████████████████░░░░░░░░░   64.49 % 
-Nix                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Text                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Go                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    11 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.80 % 
+Markdown                 4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Nix                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Text                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-Zed                      7 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-Unknown Editor           5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Claude Code              3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Codex Vscode             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Zed                      12 hrs 48 mins      ██████████████░░░░░░░░░░░   55.24 % 
+Unknown Editor           5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Claude Code              3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Codex Vscode             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-CeruleanAviationNetwork  8 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.11 % 
-nix-src                  3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-RENA                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-JianyueLab               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-nix-config               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+CeruleanAviationNetwork  7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+JianyueLab               5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+nix-src                  4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+RENA                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+nix-config               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 💻 Operating System: 
-Mac                      18 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 48 mins (97.72%)
+⏱ AI Coding Time: 22 hrs 29 mins (96.96%)
 
-✍️ 7,872 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 11,361 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 484,329,435 Input Tokens, 1,318,396 Output Tokens
+🔤 507,096,606 Input Tokens, 1,562,658 Output Tokens
 
-💵 $5104.97 Estimated AI Cost This Week
+💵 $5210.83 Estimated AI Cost This Week
 
-🧠 176 AI Sessions, 875 AI Prompts
+🧠 196 AI Sessions, 969 AI Prompts
 
-Claude                   5,544 lines         █████████████████░░░░░░░░   67.88 % 
-GPT                      2,613 lines         ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Opus                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude                   5,672 lines         ████████████░░░░░░░░░░░░░   48.57 % 
+GPT                      3,594 lines         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+Pi                       2,286 lines         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Opus                     125 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 6,525 characters per prompt
+📚 Verbose Prompter — average 5,903 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -134,5 +135,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 12:50:53 UTC
+ Last Updated on 12/10/2026 18:33:08 UTC
 <!--END_SECTION:waka-->

@@ -68,55 +68,55 @@ Sunday                   3365 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    20 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   35.25 % 
-Markdown                 10 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-TypeScript               8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Go                       4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Other                    20 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   38.43 % 
+Markdown                 9 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+TypeScript               7 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Go                       3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JSON                     3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-OMP                      34 hrs 24 mins      ███████████████░░░░░░░░░░   59.09 % 
-Zed                      18 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Unknown Editor           1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Claude Code              1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-GrokBot                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+OMP                      34 hrs 15 mins      ████████████████░░░░░░░░░   63.00 % 
+Zed                      15 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Claude Code              1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+GrokBot                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Codex Vscode             55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-nix-config               15 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-profile                  12 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-JianyueLab               3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-can-api                  2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-llm-web                  2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+nix-config               16 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+profile                  12 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+JianyueLab               3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+llm-web                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+can-fsd                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Linux                    33 hrs 11 mins      ██████████████░░░░░░░░░░░   57.01 % 
-Mac                      25 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.99 % 
+Linux                    33 hrs 12 mins      ███████████████░░░░░░░░░░   61.09 % 
+Mac                      21 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 21 mins (98.52%)
+⏱ AI Coding Time: 53 hrs 45 mins (98.85%)
 
-✍️ 46,908 lines written by AI, 44 lines written by hand (99.91% AI-written)
+✍️ 45,679 lines written by AI, 71 lines written by hand (99.84% AI-written)
 
-🔤 2,118,953,888 Input Tokens, 9,156,816 Output Tokens
+🔤 2,093,473,001 Input Tokens, 9,077,957 Output Tokens
 
-💵 $8242.84 Estimated AI Cost This Week
+💵 $8151.40 Estimated AI Cost This Week
 
-🧠 14495 AI Sessions, 2494 AI Prompts
+🧠 14204 AI Sessions, 2431 AI Prompts
 
-OMP                      26,017 lines        ██████████████░░░░░░░░░░░   55.38 % 
-Opus                     19,414 lines        ██████████░░░░░░░░░░░░░░░   41.33 % 
-GPT                      1,231 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Claude                   248 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Zed                      47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+OMP                      26,016 lines        ██████████████░░░░░░░░░░░   56.72 % 
+Opus                     18,380 lines        ██████████░░░░░░░░░░░░░░░   40.07 % 
+GPT                      1,231 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Claude                   225 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Zed                      15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 459 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +136,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jhl-hk/jhl-hk/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 18:27:01 UTC
+ Last Updated on 31/10/2026 00:38:02 UTC
 <!--END_SECTION:waka-->
